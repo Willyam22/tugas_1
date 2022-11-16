@@ -1,0 +1,20 @@
+.contianer{
+    width: 70%;
+    margin: 0px auto;
+    border-style: solid;
+    border-color: black;
+}
+
+img{
+    width: 50px;
+    height: 100%;
+    text-align: center;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
